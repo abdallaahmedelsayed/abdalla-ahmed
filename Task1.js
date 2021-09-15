@@ -55,22 +55,7 @@ if(isNaN(inputValue) == true)
 */
 
 /*Question Four
-1.
-function sumobjectvalues(obj) {
-var sum =0 ;
-for (var a in obj )
-if( typeof (obj[a])==="number"){
-sum+=obj[a] ;
-}
-console.log(sum) ;
-    }
-    let salaries = {
-  John: 100,
-  Ann: 160,
-  Pete: 130,
-  test : "hi" 
-}
-sumobjectvalues(salaries) ;
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 2.
 doSomething();
@@ -148,10 +133,10 @@ return message.toString() ;
 }
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 3
-1
 2
 4
 5
+1
 */
 
 

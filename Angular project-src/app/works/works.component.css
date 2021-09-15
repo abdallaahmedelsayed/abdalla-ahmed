@@ -1,0 +1,9 @@
+.portfolio .row .col-lg-4:nth-child(odd) img:hover{
+    opacity: .8;
+    transform: scale(.9);
+    transition: all 1.2s ease-out;
+}
+.portfolio .row .col-lg-4:nth-child(even) img:hover{
+    transform: rotate(3deg);
+    transition: all 1s ease-in-out;
+}
